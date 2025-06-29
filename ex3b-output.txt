@@ -1,0 +1,44 @@
+201 Created
+{
+  "tx": {
+    "block_height": -1,
+    "block_index": -1,
+    "hash": "8fe942cee535c5be1fd5114eb5fc93e28e27f5fcd5d320e2a20477e0b3f20346",
+    "addresses": [
+      "n1KEfUMArwiKvdzgXbuCfTH3wpgaBmBjTJ"
+    ],
+    "total": 1000,
+    "fees": 500,
+    "size": 91,
+    "vsize": 91,
+    "preference": "low",
+    "relayed_by": "60.29.153.7",
+    "received": "2024-11-03T12:44:38.933728743Z",
+    "ver": 1,
+    "double_spend": false,
+    "vin_sz": 1,
+    "vout_sz": 1,
+    "confirmations": 0,
+    "inputs": [
+      {
+        "prev_hash": "dbb72faf63b6caca31d926bce57f07e794f67942981f40cd71746dab45139671",
+        "output_index": 0,
+        "script": "024705027484",
+        "output_value": 1500,
+        "sequence": 4294967295,
+        "script_type": "unknown",
+        "age": 0
+      }
+    ],
+    "outputs": [
+      {
+        "value": 1000,
+        "script": "76a914d92b3042f84f1de9d1ba0d6e8a91c29c3697a49988ac",
+        "addresses": [
+          "n1KEfUMArwiKvdzgXbuCfTH3wpgaBmBjTJ"
+        ],
+        "script_type": "pay-to-pubkey-hash"
+      }
+    ]
+  }
+}
